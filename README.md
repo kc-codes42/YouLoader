@@ -17,13 +17,13 @@ A simple, clean web-based YouTube downloader that runs locally on your machine u
 ### Option 1: Automatic Setup
 1. Save all files in a folder
 2. Run: `python setup.py`
-3. Run: `python app.py`
+3. Run: `python youtube_downloader.py`
 4. Open http://localhost:5000
 
 ### Option 2: Manual Setup
 1. Install requirements: `pip install flask yt-dlp`
 2. Install ffmpeg
-3. Run: `python app.py`
+3. Run: `python youtube_downloader.py`
 4. Open http://localhost:5000
 
 ## File Structure
