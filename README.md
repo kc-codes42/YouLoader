@@ -29,8 +29,7 @@ A simple, clean web-based YouTube downloader that runs locally on your machine u
 ## File Structure
 ```
 youtube-downloader/
-├── app.py              # Main application
-├── requirements.txt    # Python dependencies
+├── youtube_downloader.py              # Main application
 ├── setup.py           # Automatic setup script
 └── youtubestuff/      # Downloads (created automatically)
     ├── audio/         # Audio files
@@ -49,7 +48,7 @@ youtube-downloader/
 
 - Python 3.7+
 - Internet connection
-- Optional: ffmpeg (for best format support)
+- ffmpeg
 
 ## Notes
 
