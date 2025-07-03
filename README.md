@@ -67,7 +67,7 @@ youtube-downloader/
 
 ## Creator
 
-Built by kc.codes
+**Built by [kc-codes42](https://github.com/kc-codes42)**
 
 ---
 
